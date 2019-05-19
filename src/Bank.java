@@ -8,7 +8,7 @@ public class Bank {
      //成员方法
      //普通方法
      static void welcome(){
-   	  System.out.println("欢迎新用户到工商银行:");
+   	  System.out.println("欢迎新用户工商银行:");
     }
    //构造方法 开户
 public  Bank( String name,String password,double  turnover){
